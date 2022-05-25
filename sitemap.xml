@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<<<<<<< HEAD
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
@@ -14,3 +15,15 @@
   </sitemap>
   
 </sitemapindex>
+=======
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jungyu.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/tags/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/</loc>
+  </url>
+</urlset>
+>>>>>>> 63eaf6fe66f826e5858d45f8062b5767e32ffd08
