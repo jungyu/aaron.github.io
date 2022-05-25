@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostgresQL on 不科學艾倫</title>
+    <link>https://jungyu.github.io/posts/database/postgresql/</link>
+    <description>Recent content in PostgresQL on 不科學艾倫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://jungyu.github.io/posts/database/postgresql/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

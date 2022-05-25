@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on 不科學艾倫</title>
+    <link>https://jungyu.github.io/posts/devops/ubuntu/</link>
+    <description>Recent content in Ubuntu on 不科學艾倫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2020 06:00:23 +0600</lastBuildDate><atom:link href="https://jungyu.github.io/posts/devops/ubuntu/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Ubuntu</title>
+      <link>https://jungyu.github.io/posts/devops/ubuntu/effective-ubuntu-server/</link>
+      <pubDate>Mon, 08 Jun 2020 06:00:23 +0600</pubDate>
+      
+      <guid>https://jungyu.github.io/posts/devops/ubuntu/effective-ubuntu-server/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>

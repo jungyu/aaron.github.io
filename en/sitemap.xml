@@ -13,6 +13,16 @@
     <loc>https://jungyu.github.io/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://jungyu.github.io/tw/%E6%90%9C%E5%B0%8B/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungyu.github.io/search/"
+                />
   </url><url>
     <loc>https://jungyu.github.io/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
@@ -102,14 +112,30 @@
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://jungyu.github.io/notes/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <loc>https://jungyu.github.io/posts/devops/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
   </url><url>
     <loc>https://jungyu.github.io/posts/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://jungyu.github.io/tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungyu.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://jungyu.github.io/posts/devops/ubuntu/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/devops/ubuntu/effective-ubuntu-server/</loc>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
   </url><url>
     <loc>https://jungyu.github.io/</loc>
-    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
@@ -121,31 +147,76 @@
                 href="https://jungyu.github.io/"
                 />
   </url><url>
-    <loc>https://jungyu.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungyu.github.io/categories/"
-                />
+    <loc>https://jungyu.github.io/notes/</loc>
+    <lastmod>2010-06-08T08:06:25+06:00</lastmod>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/devops/docker/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/go/fiber/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/database/firebase/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/flutter/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/devops/git/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/go/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/database/mysql/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/database/postgresql/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/python/</loc>
   </url><url>
     <loc>https://jungyu.github.io/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://jungyu.github.io/tags/</loc>
+    <loc>https://jungyu.github.io/posts/database/sqlserver/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/wordpress/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tw"
-                href="https://jungyu.github.io/tw/tags/"
+                href="https://jungyu.github.io/tw/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jungyu.github.io/tags/"
+                href="https://jungyu.github.io/zh-tw/"
                 />
+  </url><url>
+    <loc>https://jungyu.github.io/%E5%88%86%E9%A1%9E/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://jungyu.github.io/tw/%E5%88%86%E9%A1%9E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungyu.github.io/%E5%88%86%E9%A1%9E/"
+                />
+  </url><url>
+    <loc>https://jungyu.github.io/notes/trade/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/%E6%A8%99%E7%B1%A4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://jungyu.github.io/tw/%E6%A8%99%E7%B1%A4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jungyu.github.io/%E6%A8%99%E7%B1%A4/"
+                />
+  </url><url>
+    <loc>https://jungyu.github.io/posts/iot/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/database/</loc>
+  </url><url>
+    <loc>https://jungyu.github.io/posts/datascience/</loc>
   </url>
 </urlset>
