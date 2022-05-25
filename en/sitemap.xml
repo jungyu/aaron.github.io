@@ -13,16 +13,6 @@
     <loc>https://jungyu.github.io/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/%E6%90%9C%E5%B0%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungyu.github.io/search/"
-                />
   </url><url>
     <loc>https://jungyu.github.io/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
@@ -117,16 +107,6 @@
   </url><url>
     <loc>https://jungyu.github.io/posts/</loc>
     <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jungyu.github.io/posts/"
-                />
   </url><url>
     <loc>https://jungyu.github.io/posts/devops/ubuntu/</loc>
     <lastmod>2020-06-08T06:00:23+06:00</lastmod>
@@ -138,8 +118,8 @@
     <lastmod>2020-06-08T06:00:23+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/"
+                hreflang="zh-tw"
+                href="https://jungyu.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -178,8 +158,8 @@
     <loc>https://jungyu.github.io/zh-tw/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/zh-tw/"
+                hreflang="zh-tw"
+                href="https://jungyu.github.io/zh-tw/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -190,8 +170,8 @@
     <loc>https://jungyu.github.io/%E5%88%86%E9%A1%9E/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/%E5%88%86%E9%A1%9E/"
+                hreflang="zh-tw"
+                href="https://jungyu.github.io/zh-tw/%E5%88%86%E9%A1%9E/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -204,8 +184,8 @@
     <loc>https://jungyu.github.io/%E6%A8%99%E7%B1%A4/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="tw"
-                href="https://jungyu.github.io/tw/%E6%A8%99%E7%B1%A4/"
+                hreflang="zh-tw"
+                href="https://jungyu.github.io/zh-tw/%E6%A8%99%E7%B1%A4/"
                 />
     <xhtml:link
                 rel="alternate"
